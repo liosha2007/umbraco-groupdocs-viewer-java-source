@@ -1,6 +1,5 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" Inherits="Groupdocs.GroupDocsViewerJava.GroupDocsViewerJava" %>
 
-
 <script type="text/javascript" src="<%= Url %>/assets/js/libs/jquery-1.9.1.min.js"></script>
 <script type="text/javascript" src="<%= Url %>/assets/js/libs/jquery-ui-1.10.3.min.js"></script>
 <script type="text/javascript" src="<%= Url %>/assets/js/libs/knockout-2.2.1.js"></script>
