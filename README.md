@@ -1,4 +1,4 @@
-GroupDocs Viewer plugin for Umbraco CMS (Source code)
+GroupDocs Viewer for Java plugin for Umbraco CMS (Source code)
 ==================================
  
 ### Installation
